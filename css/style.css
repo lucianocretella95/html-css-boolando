@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+.nav{
+    background-color: orangered;
+    color: antiquewhite;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.client{
+    display: flex;
+    align-items: center;
+
+}
+
+.client *{
+    margin-right: 0.5rem;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+}
+
+.icon *{
+    margin-right: 0.5rem;
+}
