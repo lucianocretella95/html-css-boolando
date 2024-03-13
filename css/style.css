@@ -79,3 +79,14 @@
     width: 25rem;
     margin-top: 3rem;
 }
+
+footer{
+    margin-top: 1rem;
+}
+.note{
+    background-color: #222;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+}
